@@ -1,19 +1,19 @@
 <?php
 /*
-سورس اصلی ربات پی وی رسان
-@PvResanBot
+سورس اصلی ربات فارون
+@FaronBot
 دست هیچ بنی بشری نیست و نخواهد بود
 
 این سورس ای هم که داخل این گیت هاب هست
-سورس ورژن یک پی وی رسان هست
-و پی وی رسان هم اکنون از سورس ورژن های بالاتر استفاده میکند
+سورس ورژن یک فارون هست
+و فارون هم اکنون از سورس ورژن های بالاتر استفاده میکند
 
-تیم برنامه نویسی FTC
+تیم برنامه نویسی FARON
 با آدرس سایت
-https://feelthecode.com
+https://WebAtCo.ir
 
 اولین سازنده ربات پیام رسان فارسی در تلگرام
-و تنها برنامه نویس ربات پی وی رسان می باشد
+و تنها برنامه نویس ربات فارون می باشد
 
 لطفا از هیچکس هیچ سورس و یا آموزش تقلبی را خریداری نکنید
 نرم افزار های موجود در سطح اینترنت نیز
@@ -27,9 +27,9 @@ https://feelthecode.com
 ما را در جریان قرار دهید تا پیگیری های لازم
 صورت پذیرد
 
-site: https://feelthecode.com
-Telegram Bot: https://telegram.me/PvResanBot
-Telegram Channel: https://telegram.me/PvResan
+site: https://WebAtCo.ir
+Telegram Bot: https://telegram.me/WebAtCo
+Telegram Channel: https://telegram.me/WebAtCo
 
 یا علی خدا قوت
 */
